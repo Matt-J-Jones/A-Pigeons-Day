@@ -1,5 +1,5 @@
-# A Pigeons Day
+# A Pigeons Day (Collaboration)
+
+Collaborative project with a designer
+
 HTML-Based Choose Your Own Adventure Pigeon Roleplay Game
-
-
-It's hard out there for a pige.
