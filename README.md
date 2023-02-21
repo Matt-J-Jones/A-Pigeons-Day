@@ -2,4 +2,4 @@
 
 Collaborative project with a designer
 
-HTML-Based Choose Your Own Adventure Pigeon Roleplay Game
+HTML-Based Choice based Pigeon Roleplay Game
